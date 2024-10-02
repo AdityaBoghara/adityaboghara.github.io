@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Project Memories",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["MongoDB", "Express", "React", "NodeJs"],
+    "source": "https://github.com/AdityaBoghara/fullstack-memories-app"
+  },
+  {
+    "title": "Youtube Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Javascript"],
+    "source": "https://github.com/AdityaBoghara/yt_clone_aditya"
+  },
+  {
+    "title": "Ecommerce Syncronization website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Javascript"]
+  },
+  {
+    "title": "Memory Glass",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript", "AWS", "Raspberry pi 4"]
+  }
+]

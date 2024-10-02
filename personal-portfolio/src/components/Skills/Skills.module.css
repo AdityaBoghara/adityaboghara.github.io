@@ -1,0 +1,78 @@
+@import "../../vars.css";
+
+.container {
+  color: rgba(0, 0, 0, 1);
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 10%;
+  /* Added padding for consistent spacing on smaller screens */
+}
+
+.title {
+  color: var(--color-text);
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: 1.75px;
+  text-transform: uppercase;
+}
+
+.techStackContainer {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 50px 20px;
+}
+
+.techGrid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* 5 items per row */
+  gap: 20px;
+}
+
+.techItem {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+.techItem:hover {
+  transform: scale(1.05);
+}
+
+.techLogo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+}
+
+.techName {
+  margin-left: 15px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  .techGrid {
+    grid-template-columns: repeat(
+      3,
+      1fr
+    ); /* 3 items per row on smaller screens */
+  }
+}
+
+@media (max-width: 600px) {
+  .techGrid {
+    grid-template-columns: repeat(2, 1fr); /* 2 items per row on mobile */
+  }
+}
+
+@media (max-width: 400px) {
+  .techGrid {
+    grid-template-columns: 1fr; /* 1 item per row on very small screens */
+  }
+}
