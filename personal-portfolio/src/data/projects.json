@@ -2,27 +2,27 @@
   {
     "title": "Project Memories",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Created a full stack application using MERN stack.",
     "skills": ["MongoDB", "Express", "React", "NodeJs"],
     "source": "https://github.com/AdityaBoghara/fullstack-memories-app"
   },
   {
     "title": "Youtube Clone",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Used the REST API for youtube to create an Application using React.",
     "skills": ["React", "Javascript"],
     "source": "https://github.com/AdityaBoghara/yt_clone_aditya"
   },
   {
     "title": "Ecommerce Syncronization website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
+    "description": "Worked on a capstone project with a Canadian company. Primarily worked on Frontend using React and occasionally did bug hunting and fixing.",
     "skills": ["React", "Express", "Node", "Javascript"]
   },
   {
     "title": "Memory Glass",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["HTML", "CSS", "JavaScript", "AWS", "Raspberry pi 4"]
+    "description": "Acted as a Team lead for the project and worked on various aspects. Connected a OPENCV code to operate a camera module to perform the facial recognition. Created a front end application to embed the openCV code and make a fully functional.",
+    "skills": ["HTML", "CSS", "JavaScript", "AWS", "Raspberry pi 4", "Python"]
   }
 ]

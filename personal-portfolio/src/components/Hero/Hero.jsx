@@ -36,9 +36,17 @@ export const Hero = () => {
           A versatile individual with keen curiosity in Data Analysis,
           Full-Stack Development, and Management.
         </p>
-        <a className={styles.contactBtn} href="#contact">
-          Contact Me
-        </a>
+        <div>
+          <a className={styles.contactBtn} href="#contact">
+            Contact Me
+          </a>
+          <a
+            className={styles.resumeBtn}
+            href="https://drive.google.com/file/d/1eaqFCKt28rxlDeKW8ON6aEI0TEd0PRuY/view?usp=sharing"
+          >
+            Resume
+          </a>
+        </div>
       </div>
       <img
         src={getImageURL("hero/hero.png")}

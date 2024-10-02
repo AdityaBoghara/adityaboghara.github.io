@@ -1,13 +1,5 @@
 [
   {
-    "role": "Procter - Part Time",
-    "organization": "University of Houston",
-    "startDate": "Sept, 2024",
-    "endDate": "Present",
-    "experiences": ["Helping University with the Testing Services(CASA)"],
-    "imageSrc": "history/UH.png"
-  },
-  {
     "role": "Backend Developer",
     "organization": "Project Human City",
     "startDate": "Sept, 2023",
@@ -18,8 +10,20 @@
     ],
     "imageSrc": "history/microsoft.png"
   },
+
   {
-    "role": "Application Developer - Part Time",
+    "role": "XR Creative Developer - Intern",
+    "organization": "Immersive Creation Studio",
+    "startDate": "May, 2021",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Developed a prototypical immersive XR platform for learning environments as a part of web-guild and digital twin project team"
+    ],
+    "imageSrc": "history/netflix.png"
+  },
+
+  {
+    "role": "Application Developer",
     "organization": "Arizona State University",
     "startDate": "Jan, 2023",
     "endDate": "May, 2023",
@@ -28,8 +32,9 @@
     ],
     "imageSrc": "history/netflix.png"
   },
+
   {
-    "role": "Technology Consultant - Part Time",
+    "role": "Technology Consultant",
     "organization": "Arizona State University",
     "startDate": "May, 2022",
     "endDate": "May, 2023",
@@ -39,22 +44,21 @@
     "imageSrc": "history/netflix.png"
   },
   {
-    "role": "Teaching Assistant - Part Time",
+    "role": "Procter",
+    "organization": "University of Houston",
+    "startDate": "Sept, 2024",
+    "endDate": "Present",
+    "experiences": ["Helping University with the Testing Services(CASA)"],
+    "imageSrc": "history/UH.png"
+  },
+
+  {
+    "role": "Teaching Assistant",
     "organization": "Arizona State University",
     "startDate": "Aug, 2022",
     "endDate": "Dec, 2022",
     "experiences": [
       "Assisted the Senior Professor as a teaching aide in classes offered by the Ira A. Fulton Schools of Engineering"
-    ],
-    "imageSrc": "history/netflix.png"
-  },
-  {
-    "role": "XR Creative Developer - Internship",
-    "organization": "Immersive Creation Studio",
-    "startDate": "May, 2021",
-    "endDate": "Aug, 2021",
-    "experiences": [
-      "Developed a prototypical immersive XR platform for learning environments as a part of web-guild and digital twin project team"
     ],
     "imageSrc": "history/netflix.png"
   }
